@@ -11,14 +11,14 @@ A platform that provides hands-on exercises to strengthen Verilog skills and und
 Each folder contains solutions categorized by problem type:  
 
 <pre>
-Verilog Language
+2. Verilog Language
 ├── Basics
 ├── Vectors
 ├── Modules
 ├── Procedures
 └── More Verilog Features
 
-Circuits
+3. Circuits
 ├── Combinational Logic
    ├── Basic Gates
    ├── Multiplexers
