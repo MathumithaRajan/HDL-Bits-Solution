@@ -7,11 +7,9 @@ https://hdlbits.01xz.net/wiki/Main_Page
 A platform that provides hands-on exercises for learning Verilog and digital logic design with problems ranging from fundamental gates to more complex state machines and sequential logic.
 
 ## 📁 Repository Structure
-Each folder contains solutions categorized by problem type:
-
-## 📂 Repository Structure  
 
 Each folder contains solutions categorized by problem type:  
+
 <pre>
 Verilog Language
 ├── Basics
