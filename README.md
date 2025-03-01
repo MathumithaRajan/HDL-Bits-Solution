@@ -1,10 +1,10 @@
 # HDL-Bits-Solution
-This repository contains my solutions to various HDLBits exercises to strengthen Verilog skills and understanding of digital design concepts. 
+This repository contains my solutions to various HDLBits exercises. 
 
 ## 📌 About HDL- Bits 
 https://hdlbits.01xz.net/wiki/Main_Page
 
-A platform that provides hands-on exercises for learning Verilog and digital logic design with problems ranging from fundamental gates to more complex state machines and sequential logic.
+A platform that provides hands-on exercises to strengthen Verilog skills and understanding of digital design concepts with problems ranging from fundamental gates to more complex state machines and sequential logic.
 
 ## 📁 Repository Structure
 
